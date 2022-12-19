@@ -1,0 +1,3 @@
+To use this plugin, simply place it in the wp-content/plugins directory and activate it from the WordPress dashboard.
+Then, you can use the [instagram_feed num_posts="10" username="your_username"] shortcode in your pages or posts to display your Instagram posts.
+You can specify the number of posts to display and your Instagram username in the shortcode attributes.
